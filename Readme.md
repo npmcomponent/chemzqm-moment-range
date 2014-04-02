@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [chemzqm/moment-range](http://github.com/chemzqm/moment-range). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/chemzqm-moment-range`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 [![NPM version](https://badge.fury.io/js/moment-ranger.png)](http://badge.fury.io/js/moment-ranger)
 [![Dependency Status](https://david-dm.org/chemzqm/moment-range.png)](https://david-dm.org/chemzqm/moment-range)
 [![Build Status](https://secure.travis-ci.org/chemzqm/moment-range.png)](http://travis-ci.org/chemzqm/moment-range)

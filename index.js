@@ -1,4 +1,4 @@
-var moment = require('moment');
+var moment = require('component-moment');
 
 function MomentRange(from, to) {
   if (!(this instanceof MomentRange)) return new MomentRange(from, to);
